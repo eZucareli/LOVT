@@ -1,0 +1,48 @@
+
+
+body {
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+header {
+    padding: 10px;
+    border: solid gray 1px;
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+main {
+    display: flex;
+}
+
+.LOVT {
+    position: relative;
+    left: 30px;
+    display: inline-block;
+    width: 105px;
+    font-size: 50px;
+    color: gray;
+}
+
+.Frase {
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    width: 80px;
+    color: gray;
+}
+
+.meuMenu {
+    height: 20px;
+    position: relative;
+    right: 30px;
+}
+
+.banner1 {
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+}
