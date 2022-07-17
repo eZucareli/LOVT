@@ -143,3 +143,89 @@ main {
     text-align: center;
     border-radius: 10.5px;
 }
+
+#caixa-style {
+
+    padding: 40px;
+    width: 100vw;
+}
+
+#title {
+    margin: 10px;
+    text-align: center;
+    align-self: center;
+    font-size: 25px;
+    height: 33px;
+    padding-top: 5px;
+}
+
+.fotos-estilo {
+    border: black solid 1px;
+    width: 608px;
+    height:80px;
+    margin-bottom: 10px;
+    background: rgba(196, 196, 196, 0.5);
+}
+
+#foto-industrial {
+
+}
+
+#foto-moderno {
+
+}
+
+#foto-classico {
+
+}
+
+#caixa-preta {
+    background-color: #333333;
+    width: 697px;
+    height: 243px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#bloco01 {
+    width: 300px;
+    padding: 40px;
+}
+
+#bloco02 {
+
+    width:230px;
+    padding: 40px;
+    height: 160px;
+}
+
+#endereco {
+    width: 175px;
+    height: 95px;
+    position: relative;
+    left: 30px;
+    top: 45px;
+    font-size: 12px;
+    align-self: center;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+#redes-sociais {
+
+    width: 98px;
+    height: 24px;
+    font-size: 12px;
+    align-items: center;
+    text-align: justify;
+    position: relative;
+    left: 30px;
+    top: 20px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+#logos-de-redes-sociais {
+
+    
+}
